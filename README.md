@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm currently studying at [42 Vienna]((https://www.42vienna.com/)), one of the most challenging and rewarding coding schools in Europe. My journey here has been filled with countless hours of problem-solving, collaboration, and continuous learning.
+I'm currently studying at [42 Vienna](https://www.42vienna.com/), one of the most challenging and rewarding coding schools in Europe. My journey here has been filled with countless hours of problem-solving, collaboration, and continuous learning.
 
 ## About Me 🚀
 

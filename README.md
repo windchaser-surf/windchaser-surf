@@ -45,7 +45,7 @@ For more details, please visit the repository.
 - is a comprehensive Docker project that builds a scalable infrastructure with custom Dockerfiles, featuring secure NGINX, WordPress with PHP-FPM, MariaDB, and optional Redis caching, FTP server, and a static website, all within a virtualized environment.
 
 
-# C++ 🖥️
+## C++ 🖥️
 
 ### [Webserv](https://github.com/42Webserver/42-Vienna-Webserv.git)
 
@@ -54,17 +54,19 @@ For more details, please visit the repository.
 ### [Cpp Modules](https://github.com/windchaser-surf/cpp-modules.git)
 
 - Explore the foundational concepts of C++98 applied to create modular, efficient, and maintainable C++ code in "Cpp Modules". This project emphasizes the importance of good programming practices and the evolution of C++ standards.
+
+
+## C 🔧
+
+### [Cub3D](https://github.com/windchaser-surf/Cub3D.git)
+
+- My first RayCaster with miniLibX
+
+### [Minishell](https://github.com/windchaser-surf/Minishell)
+
+- The Minishell project is a group project where we created a simple shell similar to bash using the C programming language. This project helped me understand how shells work, including command execution, process management, and file handling in a Unix-like environment.
+
 <!--
-🌱 I’m currently learning at 42 Vienna
-**windchaser-surf/windchaser-surf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+NEED TO CLONE REPO FROM 42 INTRA! 
 -->
+

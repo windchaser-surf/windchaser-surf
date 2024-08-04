@@ -66,7 +66,11 @@ For more details, please visit the repository.
 
 - The Minishell project is a group project where we created a simple shell similar to bash using the C programming language. This project helped me understand how shells work, including command execution, process management, and file handling in a Unix-like environment.
 
-<!--
-NEED TO CLONE REPO FROM 42 INTRA! 
--->
+### [Philosophers](https://github.com/windchaser-surf/philosophers.git)
+
+- Explore the basics of threading and mutexes in this project, diving into thread creation and synchronization techniques.
+
+### [Push_swap](https://github.com/windchaser-surf/Push_swap.git)
+
+- Discover the art of sorting integers efficiently using two stacks and a limited set of operations in this C programming challenge.
 

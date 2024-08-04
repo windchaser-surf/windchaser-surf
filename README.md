@@ -28,6 +28,28 @@ Feel free to reach out if you're interested in collaborating on a project, want 
 
 Thank you for visiting my GitHub profile. I hope you find my projects inspiring and look forward to connecting with you!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windchaser-surf&layout=compact&langs_count=10&theme=radical)](https://github.com/windchaser-surf)
+
+Below, you'll find a list of my completed projects, each with a brief description.
+For more details, please visit the [repository](link-to-your-repo).
+
+## Table of Contents
+
+- [Docker](#docker)
+- [C++](#cplusplus)
+- [C](#c)
+
+## Docker 🐋
+### [Inception](https://github.com/windchaser-surf/inception.git)
+
+- is a comprehensive Docker project that builds a scalable infrastructure with custom Dockerfiles, featuring secure NGINX, WordPress with PHP-FPM, MariaDB, and optional Redis caching, FTP server, and a static website, all within a virtualized environment.
+
+
+# C++ 🖥️
+
+### [Webserv](https://github.com/42Webserver/42-Vienna-Webserv.git)
+
+- Dive into the world of web servers with "Webserv", a project focused on crafting our own HTTP/1.1 server in C++. This hands-on experience offers insights into handling client requests, managing resources efficiently, and implementing core web protocols.
 
 
 <!--

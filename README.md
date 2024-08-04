@@ -31,7 +31,7 @@ Thank you for visiting my GitHub profile. I hope you find my projects inspiring 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windchaser-surf&layout=compact&langs_count=10&theme=radical)](https://github.com/windchaser-surf)
 
 Below, you'll find a list of my completed projects, each with a brief description.
-For more details, please visit the [repository](link-to-your-repo).
+For more details, please visit the repository.
 
 ## Table of Contents
 
@@ -51,7 +51,9 @@ For more details, please visit the [repository](link-to-your-repo).
 
 - Dive into the world of web servers with "Webserv", a project focused on crafting our own HTTP/1.1 server in C++. This hands-on experience offers insights into handling client requests, managing resources efficiently, and implementing core web protocols.
 
+### [Cpp Modules]()
 
+- Explore the foundational concepts of C++98 applied to create modular, efficient, and maintainable C++ code in "Cpp Modules". This project emphasizes the importance of good programming practices and the evolution of C++ standards.
 <!--
 🌱 I’m currently learning at 42 Vienna
 **windchaser-surf/windchaser-surf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

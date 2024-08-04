@@ -28,7 +28,7 @@ Feel free to reach out if you're interested in collaborating on a project, want 
 
 Thank you for visiting my GitHub profile. I hope you find my projects inspiring and look forward to connecting with you!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windchaser-surf&layout=compact&langs_count=10&theme=radical)](https://github.com/windchaser-surf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windchaser-surf&layout=compact&langs_count=10&theme=radical)](https://github.com/windchaser-surf/github-readme-stats)
 
 Below, you'll find a list of my completed projects, each with a brief description.
 For more details, please visit the repository.
